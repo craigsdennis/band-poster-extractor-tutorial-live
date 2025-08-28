@@ -121,7 +121,7 @@ function App() {
             AI Avenue - <span style={{ color: '#FF6B3D' }}>🎸</span> Band Poster Extractor
           </h1>
           <p className="text-lg text-gray-600 max-w-2xl mx-auto">
-            Upload a band poster image and use AI to extract structured information. 
+            Hey everyone at the party, check this out!!! Upload a band poster image and use AI to extract structured information. 
             This educational tool demonstrates how AI can parse visual content into JSON data.
           </p>
         </div>
